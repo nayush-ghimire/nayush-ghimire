@@ -10,7 +10,7 @@ Currently building hands-on projects, learning security fundamentals,
 and developing practical skills through self-study and labs.
 </p>
 
-- 🔭 Currently working on **my first security-focused project**
+- 🔭 Currently working on [**My Latest security-focused project**](https://github.com/nayush-ghimire/Password-Audit-Tool)
 - 🌱 Learning **Cybersecurity Fundamentals, Networking, Linux, and Ethical Hacking**
 - 🎯 Goal: **Build a strong foundation in cybersecurity and contribute to security-focused projects**
 - 💻 Interested in **Linux, Network Security, Penetration Testing, and Automation**
@@ -31,7 +31,7 @@ and developing practical skills through self-study and labs.
 
 <p align="left">
 <a href="https://www.gnu.org/software/bash/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bash-Dark.svg" alt="Bash" width="40" height="40"/>
 </a>
 <a href="https://git-scm.com/" target="_blank">
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
