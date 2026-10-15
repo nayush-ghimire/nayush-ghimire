@@ -10,7 +10,7 @@ Currently building hands-on projects, learning security fundamentals,
 and developing practical skills through self-study and labs.
 </p>
 
-- 🔭 Currently working on [**My Latest security-focused project**](https://github.com/nayush-ghimire/OWSAP-flask-demo)
+- 🔭 Currently working on [**My portfolio and blogs website **](https://github.com/nayush-ghimire/my-site)
 - 🌱 Learning **Cybersecurity Fundamentals, Networking, Linux, and Ethical Hacking**
 - 🎯 Goal: **Build a strong foundation in cybersecurity and contribute to security-focused projects**
 - 💻 Interested in **Linux, Network Security, Penetration Testing, and Automation**
