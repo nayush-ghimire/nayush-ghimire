@@ -4,13 +4,6 @@
 Cybersecurity student at APU | Targeting SOC Analyst & AppSec roles
 </h3>
 
-<p align="center">
-📍 Kathmandu, Nepal &nbsp;•&nbsp; 🎓 Asia Pacific University (APU)
-</p>
-
-<p align="center">
-  <a href="https://nayush-ghimire.com.np"><b>🌐 Portfolio & Blog → nayush-ghimire.com.np</b></a>
-</p>
 
 <p align="center">
 I build hands-on security projects across Linux, networking, and Python automation,
@@ -20,7 +13,7 @@ and document what I learn along the way.
 ---
 
 ### 🔭 What I'm Up To
-- Building my [**portfolio & blog**](https://nayush-ghimire.com.np) ([source](https://github.com/nayush-ghimire/my-site))
+- Building projects , Writing [**Blogs**](https://nayush-ghimire.com.np/Blogs/blogpage.html)
 - Studying cybersecurity at APU, with a focus on **blue team (SOC)** and **application security**
 - Practicing on labs and writing up what I learn
 
@@ -54,7 +47,6 @@ and document what I learn along the way.
 - Python for security automation
 
 ### 🏆 Labs & Certifications
-<!-- Add certs here as you earn them -->
 - [HackTheBox profile](https://profile.hackthebox.com/profile/019f112c-87ee-711f-8cab-3d8729a8311e)
 - [TryHackMe profile](https://tryhackme.com/p/ghimirenayush123)
 
@@ -62,7 +54,7 @@ and document what I learn along the way.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayush-ghimire&show_icons=true&theme=highcontrast" alt="GitHub stats"/>
 </p>
-<!-- If this card ever shows an error, delete it rather than leave it broken. -->
+
 
 ### 🤝 Connect With Me
 <p align="left">
