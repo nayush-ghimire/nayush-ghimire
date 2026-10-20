@@ -47,16 +47,18 @@ and document what I learn along the way.
 - Python for security automation
 
 ### 🏆 Labs & Certifications
-- [HackTheBox profile](https://profile.hackthebox.com/profile/019f112c-87ee-711f-8cab-3d8729a8311e)
-- [TryHackMe profile](https://tryhackme.com/p/ghimirenayush123)
+<p align="left">
+  <a href="https://profile.hackthebox.com/profile/019f112c-87ee-711f-8cab-3d8729a8311e"><img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" alt="Hack The Box"/></a>
+  <a href="https://tryhackme.com/p/ghimirenayush123"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe"/></a>
+</p>
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nayush-ghimire&show_icons=true&theme=highcontrast" alt="GitHub stats"/>
+  <img src="https://streak-stats.demolab.com/?user=nayush-ghimire&theme=highcontrast" alt="GitHub streak"/>
 </p>
 
 
-### 🤝 Connect With Me
+### Contact
 <p align="left">
   <a href="https://nayush-ghimire.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <a href="https://linkedin.com/in/nayush-ghimire"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
